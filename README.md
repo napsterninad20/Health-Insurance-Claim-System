@@ -7,3 +7,6 @@ Main goal is to extract reports for the healthcare insurance officials which can
 
 ## Logical Database Design (Entity Relationship Diagram)
 <img src="ER Diagram.png" width="900" height="500">
+
+## Data Visualizations (Exploratory Data Analysis)
+<img src="EDA.png" width="700" height="800">
