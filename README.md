@@ -1,4 +1,4 @@
-# Health-Insurance-Claim-System
+# Health Insurance Claim System
 ## Overview
 planned to design a real world health insurance claims database which involves information pertaining to the members, providers, claims, address, claim status, claim payment and coverage, and generated our own dataset which had 7 tables (described in the further sections). We formulated a relational database using MySQL Workbench and populated all 7 tables with approximately 100 rows each table.
 
