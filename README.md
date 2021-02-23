@@ -6,4 +6,4 @@ Planned to design a real world health insurance claims database which involves i
 main goal is to extract reports for the healthcare insurance officials which can enable them to analyse and present insights to the mangeorial officials, and to understand the entire Database Design process from scratch resulting into a development of a real world database and data visualization system for the health insurance companies.
 
 ## Logical Database Design (Entity Relationship Diagram)
-<img src="images/ER Diagram.png" width="600" height="170">
+<img src="ER Diagram.png" width="600" height="170">
