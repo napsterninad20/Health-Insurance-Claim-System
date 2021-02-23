@@ -47,3 +47,9 @@ create index member_index on member(address_id);
 select distinct m.member_first_name, m.member_last_name, cp.coverage_name, m.address_id from (coverage cp inner join member m on m.member_id = cp.member_id) where m.address_id between 2000 and 5000;
 
 drop index member_index on member;
+
+## Additional topics covered
+Performance of the queries is improved using below operations,
+- Creating Views for Queries with Multiple Join Operations
+- Stored procedures for adding a centralized business logic
+- Use of Indexes for optimizing table traversals
