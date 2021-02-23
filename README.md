@@ -12,7 +12,7 @@ Main goal is to extract reports for the healthcare insurance officials which can
 <img src="EDA.png" width="700" height="800">
 
 ## Queries to get the results
-#### Reporting top 20 members along with provider details, billed amount and approved amount associated and having approved_amount greater than $2200 - Virtual Table/View
+#### 1) Reporting top 20 members along with provider details, billed amount and approved amount associated and having approved_amount greater than $2200 - Virtual Table/View
 
 Use health_insurance_claims_database;
 
